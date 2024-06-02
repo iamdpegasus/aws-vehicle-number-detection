@@ -1,5 +1,4 @@
-This is a mini project on number plate detection using S3, Lambda, Rekognition, DynamoDB, and SNS for the number plate detection and fine notification project.
-
+This is a mini project on number plate detection and fine notification project using S3, Lambda, Rekognition, DynamoDB, and SNS for the number plate detection 
 Steps : 
 
 **Step 1: Create an S3 Bucket**
