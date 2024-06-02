@@ -1,0 +1,10 @@
+I created a custome role and attached following policies. 
+
+AmazonDynamoDBFullAccess
+AmazonRekognitionFullAccess
+AmazonS3FullAccess
+AmazonS3ObjectLambdaExecutionRolePolicy
+AmazonSNSFullAccess
+AWSOpsWorksCloudWatchLogs
+CloudWatchEventsFullAccess
+CloudWatchEventsInvocationAccess
